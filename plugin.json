@@ -1,0 +1,8 @@
+{
+  "name": "Circular Import Breakage",
+  "description": "Circular Import Breakage",
+  "version": "0.1.0",
+  "webpack": {
+    "output": "index"
+  }
+}
